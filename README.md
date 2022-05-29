@@ -1,2 +1,2 @@
 # calculatrice
-mini tp pour comprendre les evenement
+mini tp pour comprendre les evenements
